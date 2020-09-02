@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thn099" alt="thn099" /> </p>
 
-- 🔭 I’m currently working on Backend - Search and Personalization at [Tiki](tiki.vn)
+- 🔭 I’m currently working on `Backend - Search and Personalization` at [Tiki](tiki.vn)
 
-- 📈 My past internship at [Cisco Tetration](https://www.cisco.com/c/en_ca/products/data-center-analytics/tetration-analytics/index.html) has sparked my interest in data processing and analytics 
+- 📈 My past `internship` at [Cisco Tetration](https://www.cisco.com/c/en_ca/products/data-center-analytics/tetration-analytics/index.html) has sparked my interest in `data processing and analytics` 
 
-- 🌱 I’m currently learning Python, Flask, SQL, Spark
+- 🌱 I’m currently learning `Python, Flask, SQL, Spark`
 
 - 📫 Reach me at **thn099@ucsd.edu**
 
