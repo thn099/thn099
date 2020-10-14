@@ -5,9 +5,9 @@
 
 - 🔭 I’m working in `Backend - Search and Personalization` at [Tiki Corporation](https://tiki.vn/)
 
-- 📈 My past `internship` at [Cisco Tetration](https://www.cisco.com/c/en_ca/products/data-center-analytics/tetration-analytics/index.html) has sparked my interest in `data processing` 
+- 📈 My past `internship` at [Cisco Tetration](https://www.cisco.com/c/en_ca/products/data-center-analytics/tetration-analytics/index.html) has sparked my interest in data science 
 
-- 🌱 I’m currently learning `Python, Flask, SQL, Spark`
+- 🌱 I’m currently learning `Python, Flask, Spring, SQL, Spark`
 
 - 📫 Reach me at **thn099@ucsd.edu**
 
